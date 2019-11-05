@@ -18,6 +18,7 @@ clean the data using various data cleaing techniques availabel in python and fin
       5. The Area of the House in sqft.
       6. The locality of the House.
       7. Price or Rent of the flat.
+      
  * cleaning and extracting the data from the html tags.
  * Saving the file into a .csv file for further processing.
  
@@ -39,4 +40,4 @@ clean the data using various data cleaing techniques availabel in python and fin
 
 ## Note :
 
-Installing Anaconda Distribution will resolve all the dependencies.
+Installing Anaconda Distribution will resolve all the dependencies. Code changes and modifications needed depending on the layout of the web page and placement of the features in the given web page.
