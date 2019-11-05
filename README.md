@@ -29,3 +29,14 @@ clean the data using various data cleaing techniques availabel in python and fin
  * Urllib.
  
 
+### Sample-Input :
+
+![](https://github.com/saitejamahadev/Hyderabad_Housing_Prices/blob/master/magic_brics_1.png)
+
+### Sample- Output:
+
+![](https://github.com/saitejamahadev/Hyderabad_Housing_Prices/blob/master/head.JPG)
+
+### Note :
+
+Installing Anaconda Distribution will resolve all the dependencies.
