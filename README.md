@@ -28,8 +28,4 @@ clean the data using various data cleaing techniques availabel in python and fin
  * Beautifulsoup.
  * Urllib.
  
- ### Input : 
- 
- ![Web site content as input][]
- 
- ### Output :
+
