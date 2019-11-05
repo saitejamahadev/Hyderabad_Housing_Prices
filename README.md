@@ -1,11 +1,11 @@
 # Hyderabad_Housing_Prices
 
-### About the Repository :
+## About the Repository :
 
 In the current repository we try to extract the data from one of the housing rental portals in Hyderabad using [web scraping](https://en.wikipedia.org/wiki/Web_scraping) method and 
 clean the data using various data cleaing techniques availabel in python and finally save the file into a .csv file for further processing and analysis.
 
-### Steps :
+## Steps :
 
 * Identify the website to be scraped.
 * Identify the feature to be extracted from the data.
@@ -21,7 +21,7 @@ clean the data using various data cleaing techniques availabel in python and fin
  * cleaning and extracting the data from the html tags.
  * Saving the file into a .csv file for further processing.
  
- ### Dependencies :
+ ## Dependencies :
  
  * Pandas.
  * Regular Expressions.
@@ -29,14 +29,14 @@ clean the data using various data cleaing techniques availabel in python and fin
  * Urllib.
  
 
-### Sample-Input :
+## Sample-Input :
 
 ![](https://github.com/saitejamahadev/Hyderabad_Housing_Prices/blob/master/magic_brics_1.png)
 
-### Sample- Output:
+## Sample- Output:
 
 ![](https://github.com/saitejamahadev/Hyderabad_Housing_Prices/blob/master/head.JPG)
 
-### Note :
+## Note :
 
 Installing Anaconda Distribution will resolve all the dependencies.
